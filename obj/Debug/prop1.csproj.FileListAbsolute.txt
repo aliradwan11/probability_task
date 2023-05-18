@@ -1,0 +1,8 @@
+C:\prop1\prop1\bin\Debug\prop1.exe.config
+C:\prop1\prop1\bin\Debug\prop1.exe
+C:\prop1\prop1\bin\Debug\prop1.pdb
+C:\prop1\prop1\obj\Debug\prop1.csproj.AssemblyReference.cache
+C:\prop1\prop1\obj\Debug\prop1.csproj.SuggestedBindingRedirects.cache
+C:\prop1\prop1\obj\Debug\prop1.csproj.CoreCompileInputs.cache
+C:\prop1\prop1\obj\Debug\prop1.exe
+C:\prop1\prop1\obj\Debug\prop1.pdb
